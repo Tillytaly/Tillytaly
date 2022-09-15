@@ -1,6 +1,6 @@
 ###  Hi, I’m @Tillytaly 👋👀
 
-Besides coding I'm also interested in music and true crime podcasts/documents. 
+Besides coding I'm also interested in music. 
 I speak three languages: Polish, English and German.
 
 ## I'm currently learnig 
