@@ -3,7 +3,7 @@
 Besides coding I'm also interested in music. 
 I speak three languages: Polish, English and German.
 
-## I'm currently learnig 
+## I'm currently learning 
 
 Currently my main focus of study is React.
 
