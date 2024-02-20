@@ -5,7 +5,7 @@ I speak three languages: Polish, English and German.
 
 ## I'm currently learning 
 
-Currently my main focus of study is React.
+Currently my main focus of study is Node.
 
 ## How to reach me 
 
