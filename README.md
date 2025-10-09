@@ -5,7 +5,7 @@ I speak three languages: Polish, English and German.
 
 ## I'm currently learning 
 
-Currently my main focus of study is Angular.
+Currently my main focus of study is Java and Frontend testing.
 
 ## How to reach me 
 
